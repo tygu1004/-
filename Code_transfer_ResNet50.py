@@ -1,5 +1,6 @@
 '''
 Resnet50 for project4
+using colab
 '''
 import time
 import os
